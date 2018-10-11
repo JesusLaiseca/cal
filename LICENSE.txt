@@ -1,0 +1,28 @@
+LICENCIAS DE SOFTWARE
+1. PROPIRTARIO
+1.1. El Software propietario es aquel cuya copia, redistribución o modificación están, en alguna medida, prohibidos por su propietario. Para usar, copiar o redistribuir, se debe solicitar permiso al propietario o pagar.
+2. COMERCIAL
+2.1. Es el software desarrollado por una empresa con el objetivo de lucrar con su utilización. La mayor parte del software comercial es propietario, pero existe software libre que es comercial, y existe software no-libre que no es comercial.
+3. SHAREWARE
+3.1. Shareware es el software disponible con el permiso para que sea redistribuido, pero su utilización implica el pago. Generalmente, el código fuente no se encuentra disponible, y por lo tanto es imposible realizar modificaciones. Es un programa distribuido gratuitamente, pero por tiempo limitado o con algunos recursos restringidos.
+4. FREEWARE
+4.1. El término freeware no posee una definición ampliamente aceptada, pero es utilizada para programas que permiten la redistribución pero no la modificación, y que incluyen su código fuente. Estos programas no son software libre. Es un programa gratuito. Sin embargo, no es libre. En este tipo de licencia el autor puede restringir su programa al uso empresarial, redistribución no autorizada, modificación por usuarios y otro tipo de restricciones. (Ejemplos: Internet Explorer, Adobe Flash Player, Windows Live Messenger)
+5. LIBRE
+5.1. Proporciona la libertad de • Ejecutar el programa, para cualquier propósito; • Estudiar el funcionamiento del programa, y adaptarlo a sus necesidades; • Redistribuir copias; • Mejorar el programa, y poner sus mejoras a disposición del público, para beneficio de toda la comunidad.
+6. GPL
+6.1. La Licencia Pública General GNU (GNU General Public License GPL) es la licencia que acompaña los paquetes distribuidos por el Proyecto GNU, más una gran varidad de software que incluye el núcleo del sistema operativo Linux.
+7. BSD
+7.1. La licencia BSD cubre las distribuciones de software de Berkeley Software Distribution, además de otros programas. Ésta es una licencia considerada 'permisiva', ya que impone pocas restricciones sobre la forma de uso, alteraciones y redistribución del software. El software puede ser vendido y no hay obligaciones de incluir el código fuente.
+8. MPL
+8.1. Este tipo de licencias de Software libre son muy parecidas a las BSD, pero son menos permisivas, aunque sin llegar a los extremos de las licencias GNU GPL, en las que como hemos visto, si utilizas código GPL el desarrollo final tiene que estar licenciado GPL
+9. DEBIAN
+9.1. La licencia Debian es parte del contrato realizado entre Debian y la comunidad de usuarios de software libre, y se denomina Debian Free Software Guidelines (DFSG).
+10. SEMI-LIBRE
+10.1. El Software semi-libre es un software que no es libre pero permite que otros individuos lo usen, lo copien, lo distribuyan y hasta lo modifiquen. Ejemplos de software semi-libre son las primeras versiones de Internet Explorer de Microsoft, o algunas versiones de browsers de Netscape, y StarOffice.
+11. ADWARE
+11.1. Subprograma que descarga publicidad sobre otro programa principal. Esto ocurre cuando un programa tiene versiones comerciales o más avanzadas que necesitan ser compradas para poder ser utilizadas. Pagando por la versión comercial, esos anuncios desaparecen. Es una licencia muy poco usada.
+12. TRAIL
+12.1. Versión de programa pago, distribuido gratuitamente con todos los recursos activos, pero por un tiempo determinado. Es como un programa freeware, que después de determinado tiempo deja de funcionar. Para continuar con la utilización del programa, se debe comprar la clave de registro e insertarla en el programa, para que vuelva a ejecutarse. Ejemplo: Nero y Photoshop.
+13. DEMO
+13.1. Versión de demostración, liberada por el autor, que no contiene todas las funciones del programa original. Es distribuida gratuitamente, y no tiene plazo de validez, pero también tiene pocos recursos y funciones. Ejemplo: Need for Speed DEMO, Fifa 09 DEMO.
+14. Licencias de Software
