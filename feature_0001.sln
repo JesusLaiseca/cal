@@ -7,21 +7,32 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "feature_0001", ".", "{E1E47
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_53961"
+<<<<<<< HEAD
 		Debug.AspNetCompiler.PhysicalPath = "..\feature_0001\"
+=======
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Proyectos\Git\Cal\feature_0001\"
+>>>>>>> cbed68a942c9d3382291099945fdd9b0de411e82
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53961\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_53961"
+<<<<<<< HEAD
 		Release.AspNetCompiler.PhysicalPath = "..\feature_0001\"
+=======
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Proyectos\Git\Cal\feature_0001\"
+>>>>>>> cbed68a942c9d3382291099945fdd9b0de411e82
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53961\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "53961"
+<<<<<<< HEAD
 		SlnRelativePath = "..\feature_0001\"
+=======
+>>>>>>> cbed68a942c9d3382291099945fdd9b0de411e82
 	EndProjectSection
 EndProject
 Global
