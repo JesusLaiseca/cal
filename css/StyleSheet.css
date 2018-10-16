@@ -1,5 +1,18 @@
 ﻿body {
 }
-.title{
-    font-size:24px; font-weight:bold; color:blue; padding:20px 0px 30px 0px;
+
+.title {
+    font-family: Verdana;
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+    padding: 20px 0px 30px 0px;
+}
+
+.lable {
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    color: grey;
+    padding: 10px 0px 10px 0px;
 }
